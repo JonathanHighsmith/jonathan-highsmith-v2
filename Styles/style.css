@@ -1,0 +1,25 @@
+            body {
+                background-color: Gold;
+                color: Navy;
+                font-size:20px ;
+                background-image: url();
+            }
+            
+            img {
+                width: 500px;
+                height: 500px;
+            }
+            
+            a:link {
+                color:Navy ;
+                
+            }
+            
+            a:visited {
+                color: red;
+            }
+            
+            a:hover {
+                color:red;
+            }
+                
